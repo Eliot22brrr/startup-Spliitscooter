@@ -1,0 +1,23 @@
+
+@import url("components/container.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+
+ body {
+  font-family: 'Lora', serif;
+  font-size: 18px;
+  margin: 0px;
+  background-color: black;
+}
+
+h1 {
+  font-family: 'Roboto', serif;
+  font-weight: bold;
+}
+
+p {
+  color: yellow;
+}
+h2 {
+  color: yellow;
+}
